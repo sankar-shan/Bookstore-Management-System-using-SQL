@@ -1,2 +1,2 @@
 # Bookstore-Management-System-using-SQL
-This project demonstrates SQL skills through the design and querying of a Bookstore Management Database
+This project demonstrates SQL skills through the design and querying of a Bookstore Management Database.The project simulates a real-world bookstore scenario where customers purchase books, and data is analyzed to extract meaningful insights. Data was imported from CSV files into PostgreSQL tables, and multiple SQL queries were written to answer business-related questions
